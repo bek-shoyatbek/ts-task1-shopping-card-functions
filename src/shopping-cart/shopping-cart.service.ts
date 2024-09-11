@@ -1,5 +1,5 @@
 import { SUCCESSFULLY_ADDED_TO_CART } from "./constants";
-import { CartItem } from "./cart-item.interfaces";
+import { CartItem } from "./cart-item.interface";
 
 export class ShoppingCart {
   private storage: Array<CartItem>;
