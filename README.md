@@ -1,1 +1,1 @@
-"# ts-task1-shopping-card-functions" 
+# ts-task1-shopping-card-functions
